@@ -1,6 +1,6 @@
 {
   "name": "ios-deploy",
-  "version": "1.9.4",
+  "version": "1.9.5",
   "os": [
     "darwin"
   ],
@@ -9,7 +9,7 @@
   "bin": "./build/Release/ios-deploy",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ios-control/ios-deploy"
+    "url": "https://github.com/iprox/ios-deploy"
   },
   "devDependencies": {
     "eslint": "~4.19.1",
